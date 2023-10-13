@@ -1,0 +1,8 @@
+sub 14
+age: 20
+sex: male
+strategy: please describe in 1 or a few scentences how you chose symbols.
+(strategy might be intuitional: whichever you felt more comfortable with, 
+or rational/analytical: keeping track of which symbols led to a win/loss how many times).  
+
+I usually only chose the symbol that caught my attention right away, so in my mind there was a implicit/subconscious ranking between the symbols but I could not remember what the order was (due to time pressure). After that, I try to assign one symbol with a preference number (the confidence level) within the range of 6-10 and select that option. In some occasions (towards the end of the experiment), I tried the symmetrical confidence level of the symbol that I chose. 

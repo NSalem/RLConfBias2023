@@ -1,0 +1,7 @@
+sub 15
+age:23
+sex: female
+strategy: please describe in 1 or a few scentences how you chose symbols.
+(strategy might be intuitional: whichever you felt more comfortable with, 
+or rational/analytical: keeping track of which symbols led to a win/loss how many times). 
+I only memorize two symbols which are the most oustanding one, and for those symbols that did not show up many times I simply ignore them. It is not possible to memorize all information.  

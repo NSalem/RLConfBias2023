@@ -1,0 +1,5 @@
+sub3
+age: 23
+sex: Female
+strategy: please describe in 1 or a few scentences how you chose symbols: A mix of intuitional and rational strategies, but the rush due to the time constraint (pressing too fast) made me do some mistakes, which otherwise I could have avoided. 
+ 

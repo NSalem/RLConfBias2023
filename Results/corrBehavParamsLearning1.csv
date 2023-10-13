@@ -1,0 +1,8 @@
+Row,Accuracy,Confidence,ValenceBias,Overconfidence
+$log(\beta)$,"\rho$ = 0.59, p =0.00","\rho$ = 0.12, p =0.26","\rho$ = 0.11, p =0.30","\rho$ = -0.47, p =0.00"
+$\alpha_{CON}$,"\rho$ = -0.02, p =0.76","\rho$ = 0.11, p =0.32","\rho$ = 0.04, p =0.69","\rho$ = 0.10, p =0.34"
+$\alpha_{DIS}$,"\rho$ = 0.44, p =0.00","\rho$ = 0.14, p =0.17","\rho$ = 0.13, p =0.22","\rho$ = -0.34, p =0.00"
+$\alpha_V$,"\rho$ = 0.01, p =0.89","\rho$ = 0.11, p =0.29","\rho$ = -0.27, p =0.01","\rho$ = 0.08, p =0.45"
+w,"\rho$ = 0.18, p =0.01","\rho$ = -0.09, p =0.40","\rho$ = -0.25, p =0.02","\rho$ = -0.26, p =0.01"
+$\frac{\alpha_{CON}-\alpha_{DIS}}{\alpha_{CON}+\alpha_{DIS}}$,"\rho$ = -0.48, p =0.00","\rho$ = -0.10, p =0.33","\rho$ = -0.09, p =0.39","\rho$ = 0.39, p =0.00"
+$\alpha_{CON}-\alpha_{DIS}$,"\rho$ = -0.20, p =0.00","\rho$ = 0.10, p =0.35","\rho$ = 0.02, p =0.89","\rho$ = 0.28, p =0.01"

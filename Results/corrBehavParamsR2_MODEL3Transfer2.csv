@@ -1,0 +1,4 @@
+Row,Accuracy,Confidence,ValenceBias,Overconfidence
+Intercept,0.01,NaN,NaN,NaN
+$\beta_{DIFF}$,0.01,NaN,NaN,NaN
+$\beta_{BIAS}$,0.01,NaN,NaN,NaN

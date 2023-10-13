@@ -1,0 +1,4 @@
+sub 33
+age:19
+sex: female
+strategy: my decision was based on the feedback i received from the previos pair of symbols, which one gave me more money, didn't give me anything or made me lose money

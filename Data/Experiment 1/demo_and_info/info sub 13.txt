@@ -1,0 +1,8 @@
+sub 13
+age: 18
+sex: Male
+strategy: please describe in 1 or a few scentences how you chose symbols.
+(strategy might be intuitional: whichever you felt more comfortable with, 
+or rational/analytical: keeping track of which symbols led to a win/loss how many times). 
+
+In general I tried to recognise symbols with good or bad conitations, when confronted with 'good' symbols vs 'bad' symbols the choice was easy for me however when it was bad vs bad or good vs good the choice was more difficult. In the final excercises when it was bad vs bad I often just chose the one that I prefered the look of.  

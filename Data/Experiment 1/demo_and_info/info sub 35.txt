@@ -1,0 +1,8 @@
+sub 35
+age:23
+sex: Female
+strategy: please describe in 1 or a few scentences how you chose symbols.
+(strategy might be intuitional: whichever you felt more comfortable with, 
+or rational/analytical: keeping track of which symbols led to a win/loss how many times).  
+
+At the beginning I was not sure of my choices so I chose randon, but then I was observing the pattern (e.g. the results oscilation between the simbols) and also was paying attention to the instances where a simbol was positive or 0 so that I could choose that simbol more often (as the likelihood that it will have the positive outcome was higher).

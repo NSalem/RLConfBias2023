@@ -1,0 +1,7 @@
+sub 6
+age:25
+sex: M
+strategy: please describe in 1 or a few scentences how you chose symbols.
+(strategy might be intuitional: whichever you felt more comfortable with, 
+or rational/analytical: keeping track of which symbols led to a win/loss how many times).  
+I tried to figure out combinations, certain combinations but did not work out. I was purely guessing. 

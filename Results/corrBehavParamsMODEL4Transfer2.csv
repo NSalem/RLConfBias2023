@@ -1,0 +1,4 @@
+Row,Accuracy,Confidence,ValenceBias,Overconfidence
+$\beta_0$,"\rho$ = -0.06, p =0.04","\rho$ = 0.50, p =0.00","\rho$ = -0.02, p =0.59","\rho$ = 0.42, p =0.00"
+$|\beta_{\Delta Q}|$,"\rho$ = -0.05, p =0.11","\rho$ = 0.35, p =0.00","\rho$ = -0.04, p =0.18","\rho$ = 0.30, p =0.00"
+$\beta_{bias}$,"\rho$ = -0.00, p =0.95","\rho$ = 0.44, p =0.00","\rho$ = 0.86, p =0.00","\rho$ = 0.37, p =0.00"

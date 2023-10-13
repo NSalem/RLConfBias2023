@@ -1,0 +1,8 @@
+sub 26
+age:25
+sex: female
+strategy: please describe in 1 or a few scentences how you chose symbols.
+(strategy might be intuitional: whichever you felt more comfortable with, 
+or rational/analytical: keeping track of which symbols led to a win/loss how many times). 
+
+In the beginning I was 'testing' the symbols and after that I tried to remember which one won in the previous 'rounds'. For example if a symbol in the previous rounds had given me +0,5 I would choose that, or if one brought -0,5 I would never choose that. 

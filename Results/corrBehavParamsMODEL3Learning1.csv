@@ -1,0 +1,8 @@
+Row,Accuracy,Confidence,ValenceBias,Overconfidence
+$\beta$,"\rho$ = 0.41, p =0.00","\rho$ = 0.05, p =0.12","\rho$ = 0.07, p =0.03","\rho$ = -0.16, p =0.00"
+$\alpha_{CON}$,"\rho$ = 0.09, p =0.00","\rho$ = 0.23, p =0.00","\rho$ = 0.08, p =0.01","\rho$ = 0.15, p =0.00"
+$\alpha_{DIS}$,"\rho$ = 0.37, p =0.00","\rho$ = -0.06, p =0.06","\rho$ = -0.08, p =0.01","\rho$ = -0.26, p =0.00"
+$\alpha_V$,"\rho$ = 0.09, p =0.01","\rho$ = 0.01, p =0.65","\rho$ = -0.53, p =0.00","\rho$ = -0.04, p =0.26"
+w,"\rho$ = 0.05, p =0.12","\rho$ = 0.04, p =0.26","\rho$ = -0.13, p =0.00","\rho$ = 0.01, p =0.86"
+$\frac{\alpha_{CON}-\alpha_{DIS}}{\alpha_{CON}+\alpha_{DIS}}$,"\rho$ = -0.26, p =0.00","\rho$ = 0.16, p =0.00","\rho$ = 0.12, p =0.00","\rho$ = 0.28, p =0.00"
+$\alpha_{CON}-\alpha_{DIS}$,"\rho$ = -0.05, p =0.12","\rho$ = 0.23, p =0.00","\rho$ = 0.11, p =0.00","\rho$ = 0.23, p =0.00"

@@ -1,0 +1,6 @@
+sub 10
+age:25
+sex: female
+strategy: please describe in 1 or a few scentences how you chose symbols. can rember one or two symbols and their position, and there is an impression some symbols have high probability to lose money, the rest were guessing.
+(strategy might be intuitional: whichever you felt more comfortable with, 
+or rational/analytical: keeping track of which symbols led to a win/loss how many times).  

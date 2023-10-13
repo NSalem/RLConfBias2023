@@ -1,0 +1,7 @@
+sub 7
+age:25
+sex: male
+strategy: please describe in 1 or a few scentences how you chose symbols.
+(strategy might be intuitional: whichever you felt more comfortable with, 
+or rational/analytical: keeping track of which symbols led to a win/loss how many times).  
+I tried to understand which symbols will give benefits (so the one with the two rounds parts in each side) or which one are better then others

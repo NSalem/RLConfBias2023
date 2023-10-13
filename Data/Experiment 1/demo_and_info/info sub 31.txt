@@ -1,0 +1,9 @@
+sub 31
+age:21
+sex:Vrouw
+strategy: please describe in 1 or a few scentences how you chose symbols.
+(strategy might be intuitional: whichever you felt more comfortable with, 
+or rational/analytical: keeping track of which symbols led to a win/loss how many times).  
+Ik herkende op een gegeven moment welke symbolen vaker iets positiefs voor mij weergaven en dan koos ik die altijd. 
+Bij de combinaties waar een negatieve uitkomst mogelijk was, daar koos ik altijd voor het symbool waarvan ik dacht dat de 
+grootste kans 0 was.

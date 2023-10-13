@@ -1,0 +1,7 @@
+sub 27
+age:20
+sex: male
+strategy: please describe in 1 or a few scentences how you chose symbols.
+(strategy might be intuitional: whichever you felt more comfortable with, 
+or rational/analytical: keeping track of which symbols led to a win/loss how many times).  
+I tried figuring out which symbol more often led to higher payoffs. For the symbol pairs where the payoffs of both were shown this was easier. For the symbols where the payoffs of the other was not shown there was always still some doubt and uncertainty.

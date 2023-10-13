@@ -1,0 +1,7 @@
+sub 24
+age:22
+sex: Female
+strategy: please describe in 1 or a few scentences how you chose symbols.
+(strategy might be intuitional: whichever you felt more comfortable with, 
+or rational/analytical: keeping track of which symbols led to a win/loss how many times).  
+|First, trying to guess the choices;then you get feedback,and you know the right ansver.But, the hardest thing is to remember the symbols and the feedback at the same time. Its easier tp memorize when some of the symbols are symmetrical. \so this is the basic technique I use.

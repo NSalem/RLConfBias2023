@@ -1,0 +1,5 @@
+Row,Accuracy,Confidence,ValenceBias,Overconfidence
+Intercept,"\rho$ = -0.40, p =0.00","\rho$ = -0.03, p =0.78","\rho$ = 0.34, p =0.00","\rho$ = 0.34, p =0.00"
+$\beta_{DIFF}$,"\rho$ = 0.29, p =0.01","\rho$ = 0.45, p =0.00","\rho$ = 0.01, p =0.93","\rho$ = 0.01, p =0.93"
+$\beta_{BIAS}$,"\rho$ = 0.26, p =0.01","\rho$ = 0.35, p =0.00","\rho$ = 0.30, p =0.00","\rho$ = -0.05, p =0.64"
+$\beta_{y(t-1)}$,"\rho$ = 0.28, p =0.01","\rho$ = 0.35, p =0.00","\rho$ = -0.45, p =0.00","\rho$ = -0.01, p =0.96"

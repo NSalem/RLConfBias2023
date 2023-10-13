@@ -1,0 +1,7 @@
+sub 5
+age:20
+sex: female
+strategy: please describe in 1 or a few scentences how you chose symbols.
+(strategy might be intuitional: whichever you felt more comfortable with, 
+or rational/analytical: keeping track of which symbols led to a win/loss how many times).  
+For the first rounds period, I decided to choose the symbols which showed the payments most frequently. And for the second rounds period, I put some preferences from the last rounds and choose the remebered symbols with frequent payments. 

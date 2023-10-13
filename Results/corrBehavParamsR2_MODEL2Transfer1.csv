@@ -1,0 +1,8 @@
+Row,Accuracy,Confidence,ValenceBias,Overconfidence
+$log(\beta)$,0.24,NaN,NaN,NaN
+$\alpha_{CON}$,0.01,NaN,NaN,NaN
+$\alpha_{DIS}$,0.01,NaN,NaN,NaN
+$\alpha_V$,0.19,NaN,NaN,NaN
+w,0.01,NaN,NaN,NaN
+$\frac{\alpha_{CON}-\alpha_{DIS}}{\alpha_{CON}+\alpha_{DIS}}$,0.01,NaN,NaN,NaN
+$\alpha_{CON}-\alpha_{DIS}$,0.02,NaN,NaN,NaN

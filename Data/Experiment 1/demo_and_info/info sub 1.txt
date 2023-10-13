@@ -1,0 +1,5 @@
+sub1
+age: 21
+sex: male
+strategy: rational approach, exploration followed by exploitation and occasional exploration to increase certainty of value. More intuitional at start, because of little feedback.
+NOTE -- confidence associated with outcome, changed in instructions after participant. Started confidence ratings in middle of the scale. 
